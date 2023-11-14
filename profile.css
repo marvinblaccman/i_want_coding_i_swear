@@ -12,6 +12,7 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+      color: chocolate;
 }
 .no7{
     display: flex;
@@ -19,16 +20,26 @@
 }
 #shy{
     flex-direction: column;
+      color: chocolate;
 }
 #guy{
     flex-direction: column;
     margin: 50px;
+    color: chocolate;
 }
 body{
     border: solid 2px;
     border-radius: 12px;
-    background-color: burlywood;
+    background-image: url( https://c4.wallpaperflare.com/wallpaper/968/387/691/joker-movies-artwork-joaquin-phoenix-joker-2019-movie-hd-wallpaper-preview.jpg);
+    background-size: cover;
+
 }
 img{
     margin-top: 36px;
+}
+h3{
+    color: aquamarine;
+}
+p{
+    color:coral;
 }

@@ -1,0 +1,34 @@
+.mr{
+    display: flex;
+    justify-content: center;
+}
+#wafula{
+    flex-direction: column;
+    padding: 12px;
+    margin-left: 40px;
+}
+.jiji{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.no7{
+    display: flex;
+    justify-content: center;
+}
+#shy{
+    flex-direction: column;
+}
+#guy{
+    flex-direction: column;
+    margin: 50px;
+}
+body{
+    border: solid 2px;
+    border-radius: 12px;
+    background-color: burlywood;
+}
+img{
+    margin-top: 36px;
+}
